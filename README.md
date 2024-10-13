@@ -1,6 +1,5 @@
 # MuOS-Popeye-Theme
-Theme for MuOS featuring visual styling from Fleischer Studios' Popeye the Sailor cartoons of the 1930s and 1940s. Supports most Simplified Chinese glyphs.
-
+Theme for MuOS featuring visual styling from Fleischer Studios' Popeye the Sailor cartoons of the 1930s and 1940s. Some decors are hand-drawn by yours truly. Recognize that the typos on the launch screen are based on the "per-cu-litter" Popeye-speak. Supports most Simplified Chinese glyphs.
 
 Theme design and launch page title illustrations: KingLJN
 
